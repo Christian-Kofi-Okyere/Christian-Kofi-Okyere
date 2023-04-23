@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on improving my skills in Data Structures, by completing a some projects<br>
+I am currently working on improving my skills in Data Structures by completing a some projects<br>
 
 
 ## 🌐 Socials:
