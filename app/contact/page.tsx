@@ -4,7 +4,6 @@ import React from "react";
 import { AiOutlineMail, AiFillLinkedin, AiFillGithub } from "react-icons/ai";
 import { FaMapMarkerAlt, FaUniversity } from "react-icons/fa";
 
-const prefix = process.env.NODE_ENV === "production" ? "/Christian-Kofi-Okyere" : "";
 
 export default function Contact() {
   return (

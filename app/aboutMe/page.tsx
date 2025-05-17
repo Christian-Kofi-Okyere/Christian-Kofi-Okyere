@@ -2,6 +2,7 @@
 import React from "react";
 import { useState } from "react";
 import { AiFillLinkedin, AiFillGithub } from "react-icons/ai";
+const prefix = process.env.NODE_ENV === "production" ? "/Christian-Kofi-Okyere" : "";
 
 const containerStyle = {
   width: "400px",
