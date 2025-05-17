@@ -38,7 +38,7 @@ export default function aboutMe() {
         <div className="flex flex-col md:flex-row md:space-x-10 mb-10">
           <div className="md:w-1/3 mb-6 md:mb-0">
             <img
-              src="/images/profile.jpeg"
+              src={`${prefix}/images/profile.jpeg`}
               alt="Christian Okyere"
               className="w-full rounded-lg shadow-lg"
             />
