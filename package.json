@@ -2,11 +2,15 @@
   "name": "website",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://christian-kofi-okyere.github.io/Christian-Kofi-Okyere",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "export": "next export",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "predeploy": "npm run build && npm run export",
+    "deploy": "gh-pages -d out"
   },
   "dependencies": {
     "@types/node": "20.1.4",
