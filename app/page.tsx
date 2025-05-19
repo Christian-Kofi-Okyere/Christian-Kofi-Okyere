@@ -77,7 +77,7 @@ export default function Home() {
             <div className="flex flex-col md:flex-row items-center">
               <div className="md:w-1/3 mb-8 md:mb-0 md:pr-8">
                 <img 
-                  src="/images/profile.jpeg" 
+                  src="/Christian-Kofi-Okyere/images/profile.jpeg" 
                   alt="Christian Okyere" 
                   className="rounded-lg shadow-lg w-64 h-64 object-cover mx-auto"
                 />
